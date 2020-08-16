@@ -1,3 +1,1 @@
-```
-[{"timestamp":"2020-08-16T13:00:00.000Z","result":{"olat_hist":{"breaks":["Infinity","NaN","NaN","NaN","NaN","NaN","NaN","-Infinity"],"counts":["NaN","NaN","NaN","NaN","NaN","NaN","NaN"]},"fifty_percentile":"NaN"}}
-```
+[{"timestamp":"2020-08-16T13:00:00.000Z","result":{"olat_hist":{"breaks":["Infinity","NaN","NaN","NaN","NaN","NaN","NaN","-Infinity"],"counts":["NaN","NaN","NaN","NaN","NaN","NaN","NaN"]},"duration_hist":{"breaks":[-395428.5,61553.0,518534.5,975516.0,1432497.5,1889479.0,2346460.5,2803442.0],"counts":[0.0,66000.5625,2844.926513671875,9.512149810791016,1.0,2.0,2.0]}}}]
